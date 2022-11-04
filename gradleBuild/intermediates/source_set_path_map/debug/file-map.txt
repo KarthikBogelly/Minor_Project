@@ -1,0 +1,13 @@
+org.tensorflow.demo-support-compat-28.0.0-0 C:\Users\hp\AndroidStudioProjects\MyApplication\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\res
+org.tensorflow.demo-coordinatorlayout-28.0.0-1 C:\Users\hp\AndroidStudioProjects\MyApplication\.gradle\caches\transforms-3\0b9fc8d9f154c86a7fc179511600af22\transformed\coordinatorlayout-28.0.0\res
+org.tensorflow.demo-cardview-v7-28.0.0-2 C:\Users\hp\AndroidStudioProjects\MyApplication\.gradle\caches\transforms-3\8658275de89683eb0581bd9b220f34d3\transformed\cardview-v7-28.0.0\res
+org.tensorflow.demo-constraint-layout-2.0.4-3 C:\Users\hp\AndroidStudioProjects\MyApplication\.gradle\caches\transforms-3\873bc7c8a67ebe44879c1aac310b75f0\transformed\constraint-layout-2.0.4\res
+org.tensorflow.demo-appcompat-v7-28.0.0-4 C:\Users\hp\AndroidStudioProjects\MyApplication\.gradle\caches\transforms-3\f3fb8e121effd5569417956c58bf8b53\transformed\appcompat-v7-28.0.0\res
+org.tensorflow.demo-debug-5 C:\mini project\Project Code\build-types\debug\res
+org.tensorflow.demo-pngs-6 C:\mini project\Project Code\gradleBuild\generated\res\pngs\debug
+org.tensorflow.demo-resValues-7 C:\mini project\Project Code\gradleBuild\generated\res\resValues\debug
+org.tensorflow.demo-rs-8 C:\mini project\Project Code\gradleBuild\generated\res\rs\debug
+org.tensorflow.demo-mergeDebugResources-9 C:\mini project\Project Code\gradleBuild\intermediates\incremental\debug\mergeDebugResources\merged.dir
+org.tensorflow.demo-mergeDebugResources-10 C:\mini project\Project Code\gradleBuild\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+org.tensorflow.demo-merged_res-11 C:\mini project\Project Code\gradleBuild\intermediates\merged_res\debug
+org.tensorflow.demo-Project Code-12 C:\mini project\Project Code\res

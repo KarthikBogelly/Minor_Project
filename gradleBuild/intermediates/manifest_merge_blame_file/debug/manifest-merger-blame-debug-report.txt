@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.demo" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\mini project\Project Code\AndroidManifest.xml
+7        android:targetSdkVersion="28" />
+7-->C:\mini project\Project Code\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+9-->C:\mini project\Project Code\AndroidManifest.xml:6:5-81
+9-->C:\mini project\Project Code\AndroidManifest.xml:6:22-78
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\mini project\Project Code\AndroidManifest.xml:7:5-66
+10-->C:\mini project\Project Code\AndroidManifest.xml:7:22-64
+11    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13
+14    <application
+14-->C:\mini project\Project Code\AndroidManifest.xml:9:5-45:19
+15        android:allowBackup="true"
+15-->C:\mini project\Project Code\AndroidManifest.xml:10:9-35
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0] C:\Users\hp\AndroidStudioProjects\MyApplication\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+17        android:debuggable="true"
+17-->C:\mini project\Project Code\AndroidManifest.xml:11:9-34
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\mini project\Project Code\AndroidManifest.xml:12:9-43
+19        android:label="@string/app_name"
+19-->C:\mini project\Project Code\AndroidManifest.xml:13:9-41
+20        android:networkSecurityConfig="@xml/network"
+20-->C:\mini project\Project Code\AndroidManifest.xml:14:9-53
+21        android:testOnly="true"
+22        android:theme="@style/Theme.AppCompat"
+22-->C:\mini project\Project Code\AndroidManifest.xml:15:9-47
+23        android:usesCleartextTraffic="true" >
+23-->C:\mini project\Project Code\AndroidManifest.xml:16:9-44
+24        <activity
+24-->C:\mini project\Project Code\AndroidManifest.xml:19:9-20:65
+25            android:name="org.tensorflow.demo.Register"
+25-->C:\mini project\Project Code\AndroidManifest.xml:19:19-43
+26            android:theme="@style/Theme.AppCompat.NoActionBar" />
+26-->C:\mini project\Project Code\AndroidManifest.xml:20:13-63
+27        <activity
+27-->C:\mini project\Project Code\AndroidManifest.xml:22:9-23:65
+28            android:name="org.tensorflow.demo.Login"
+28-->C:\mini project\Project Code\AndroidManifest.xml:22:19-40
+29            android:theme="@style/Theme.AppCompat.NoActionBar" />
+29-->C:\mini project\Project Code\AndroidManifest.xml:23:13-63
+30        <activity
+30-->C:\mini project\Project Code\AndroidManifest.xml:25:9-32:20
+31            android:name="org.tensorflow.demo.MainActivity"
+31-->C:\mini project\Project Code\AndroidManifest.xml:25:19-47
+32            android:theme="@style/Theme.AppCompat.NoActionBar" >
+32-->C:\mini project\Project Code\AndroidManifest.xml:26:13-63
+33            <intent-filter>
+33-->C:\mini project\Project Code\AndroidManifest.xml:27:13-31:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\mini project\Project Code\AndroidManifest.xml:28:17-69
+34-->C:\mini project\Project Code\AndroidManifest.xml:28:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\mini project\Project Code\AndroidManifest.xml:30:17-77
+36-->C:\mini project\Project Code\AndroidManifest.xml:30:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->C:\mini project\Project Code\AndroidManifest.xml:34:9-36:72
+40            android:name="org.tensorflow.demo.pesticidesActivity"
+40-->C:\mini project\Project Code\AndroidManifest.xml:35:13-47
+41            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+41-->C:\mini project\Project Code\AndroidManifest.xml:36:13-69
+42        <activity
+42-->C:\mini project\Project Code\AndroidManifest.xml:38:9-40:65
+43            android:name="org.tensorflow.demo.CameraRollActivity"
+43-->C:\mini project\Project Code\AndroidManifest.xml:39:13-47
+44            android:theme="@style/Theme.AppCompat.NoActionBar" />
+44-->C:\mini project\Project Code\AndroidManifest.xml:40:13-63
+45
+46        <meta-data
+46-->C:\mini project\Project Code\AndroidManifest.xml:42:9-44:57
+47            android:name="preloaded_fonts"
+47-->C:\mini project\Project Code\AndroidManifest.xml:43:13-43
+48            android:resource="@array/preloaded_fonts" />
+48-->C:\mini project\Project Code\AndroidManifest.xml:44:13-54
+49    </application>
+50
+51</manifest>

@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:2:1-47:12
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.2.0-preview.aar\667d9b9b86fb066f3ff0855cdee290bc\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\8e68a2e301c1b13e46f6348572fd3dda\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\78b9a550b41b6885019c45c523a8d807\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c91ad7d30420a670002fec9746252dec\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\720f46ce662d1f08086399bc1e524033\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\862da06f0c174cb65317292277207c7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4d1c788e0eb683bbd5e84972391d3d19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\dcb0742e3812e4a65e6ed88f003897e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdb11ea23b20e8b91cd07e907d12712c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e5284157580beebf4a2f93eba81adc07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c9556dec553a2badd99aa9fd9e08bf13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\aca73812ae98258ed1bad4d22cd4d904\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ad1e7718c236cc074fc951b04dd3d3d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\efdcf5b5cb74deee29f74fb1b8c80795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4851614a5355bba0fa1e7481af15f9cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\29f956f5c6597679f2dd05610e27acca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6427f0f721a72f31535c4c22522dcec0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5a4d3d4c83e21d1d02db5e9a5293cb30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\880496af864499f4af0b71f24cdbb9ec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b031a66f01a328158346bd632a4671c9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\30e29690ae71f8cb7d27f555aeb01e85\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\95c2bdc01334d748ecd3504a6b7c7a9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a8ab17133e571ece9ed41f3ae87bb71b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\da7e011066bd4d26ba8c16a8f93f0855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f5773dc652f739f4b373e5977637bc82\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e6c5f5338b5e5f06c07dda01ddee161b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\13364555ee981d05ba9863a7858fc98d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51f87350845148d515f8e77bff72d796\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6f74ca720249afe8cce22d102f594eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ebe67c011fbf3d3486daaa0a0790c2c3\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:4:5-34
+	xmlns:tools
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:9:5-45:19
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.2.0-preview.aar\667d9b9b86fb066f3ff0855cdee290bc\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.2.0-preview.aar\667d9b9b86fb066f3ff0855cdee290bc\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\8e68a2e301c1b13e46f6348572fd3dda\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\8e68a2e301c1b13e46f6348572fd3dda\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c91ad7d30420a670002fec9746252dec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c91ad7d30420a670002fec9746252dec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\880496af864499f4af0b71f24cdbb9ec\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\880496af864499f4af0b71f24cdbb9ec\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b031a66f01a328158346bd632a4671c9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b031a66f01a328158346bd632a4671c9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\880496af864499f4af0b71f24cdbb9ec\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:13:9-41
+	android:debuggable
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:11:9-34
+	tools:ignore
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:17:9-42
+	android:icon
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:15:9-47
+	android:networkSecurityConfig
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:14:9-53
+	android:usesCleartextTraffic
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:16:9-44
+activity#org.tensorflow.demo.Register
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:19:9-20:65
+	android:theme
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:19:19-43
+activity#org.tensorflow.demo.Login
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:22:9-23:65
+	android:theme
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:23:13-63
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:22:19-40
+activity#org.tensorflow.demo.MainActivity
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:25:9-32:20
+	android:theme
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:26:13-63
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:30:27-74
+activity#org.tensorflow.demo.pesticidesActivity
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:34:9-36:72
+	android:theme
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:35:13-47
+activity#org.tensorflow.demo.CameraRollActivity
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:38:9-40:65
+	android:theme
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:39:13-47
+meta-data#preloaded_fonts
+ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:42:9-44:57
+	android:resource
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:44:13-54
+	android:name
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:43:13-43
+uses-sdk
+INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\8e68a2e301c1b13e46f6348572fd3dda\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-2.0.4.aar\8e68a2e301c1b13e46f6348572fd3dda\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\78b9a550b41b6885019c45c523a8d807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\78b9a550b41b6885019c45c523a8d807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c91ad7d30420a670002fec9746252dec\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\c91ad7d30420a670002fec9746252dec\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\720f46ce662d1f08086399bc1e524033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\720f46ce662d1f08086399bc1e524033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\862da06f0c174cb65317292277207c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\862da06f0c174cb65317292277207c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4d1c788e0eb683bbd5e84972391d3d19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4d1c788e0eb683bbd5e84972391d3d19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\dcb0742e3812e4a65e6ed88f003897e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\dcb0742e3812e4a65e6ed88f003897e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdb11ea23b20e8b91cd07e907d12712c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdb11ea23b20e8b91cd07e907d12712c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e5284157580beebf4a2f93eba81adc07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e5284157580beebf4a2f93eba81adc07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c9556dec553a2badd99aa9fd9e08bf13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c9556dec553a2badd99aa9fd9e08bf13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\aca73812ae98258ed1bad4d22cd4d904\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\aca73812ae98258ed1bad4d22cd4d904\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ad1e7718c236cc074fc951b04dd3d3d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ad1e7718c236cc074fc951b04dd3d3d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\efdcf5b5cb74deee29f74fb1b8c80795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\efdcf5b5cb74deee29f74fb1b8c80795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4851614a5355bba0fa1e7481af15f9cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4851614a5355bba0fa1e7481af15f9cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\29f956f5c6597679f2dd05610e27acca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\29f956f5c6597679f2dd05610e27acca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6427f0f721a72f31535c4c22522dcec0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6427f0f721a72f31535c4c22522dcec0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5a4d3d4c83e21d1d02db5e9a5293cb30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5a4d3d4c83e21d1d02db5e9a5293cb30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\880496af864499f4af0b71f24cdbb9ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\880496af864499f4af0b71f24cdbb9ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b031a66f01a328158346bd632a4671c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b031a66f01a328158346bd632a4671c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\30e29690ae71f8cb7d27f555aeb01e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\30e29690ae71f8cb7d27f555aeb01e85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\95c2bdc01334d748ecd3504a6b7c7a9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\95c2bdc01334d748ecd3504a6b7c7a9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a8ab17133e571ece9ed41f3ae87bb71b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a8ab17133e571ece9ed41f3ae87bb71b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\da7e011066bd4d26ba8c16a8f93f0855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\da7e011066bd4d26ba8c16a8f93f0855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f5773dc652f739f4b373e5977637bc82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f5773dc652f739f4b373e5977637bc82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e6c5f5338b5e5f06c07dda01ddee161b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e6c5f5338b5e5f06c07dda01ddee161b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\13364555ee981d05ba9863a7858fc98d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\13364555ee981d05ba9863a7858fc98d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51f87350845148d515f8e77bff72d796\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51f87350845148d515f8e77bff72d796\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6f74ca720249afe8cce22d102f594eaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6f74ca720249afe8cce22d102f594eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ebe67c011fbf3d3486daaa0a0790c2c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vamsh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ebe67c011fbf3d3486daaa0a0790c2c3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+		INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+		ADDED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+		INJECTED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:2:1-47:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\vamsh\Desktop\Project\Mini Project\Project Code\AndroidManifest.xml:2:1-47:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
